@@ -1,0 +1,6 @@
+Score 82: Passed!
+Score 64: Failed. Keep practicing!
+Invalid input "abc". Please enter a valid number.
+Score 90: Passed!
+
+Total passing students: 2

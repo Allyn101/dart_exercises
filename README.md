@@ -24,3 +24,25 @@ dart run
 
 ## Sample Output
 See `output.txt` for the program's output.
+
+
+## Week 8: Dart Logic Problem Set
+
+### Scenario
+A student grade checker that evaluates scores, identifies passing and failing results, counts passing students, and handles invalid input.
+
+### Concepts Demonstrated
+- Conditional statements using if/else
+- For loops
+- Functions with parameters and return values
+- Error handling using try/catch
+- Integer parsing and validation
+
+### How to Run
+```bash
+dart run bin/week8_logic.dart
+```
+
+### Sample Output
+See `output_week8.txt` for the program output.
+
