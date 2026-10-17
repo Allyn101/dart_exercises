@@ -1,0 +1,11 @@
+
+Student Name: Allyn
+Quantity Ordered: 3
+Price per Item: PHP 45.5
+Subtotal: PHP 136.5
+Eligible for Student Discount: true
+Discount: PHP 13.65
+Final Total: PHP 122.85
+Is this a bulk order? true
+Complete pairs of items: 1
+Remaining items: 1
